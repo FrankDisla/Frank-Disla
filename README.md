@@ -84,20 +84,7 @@ Estudiante de **Ingeniería en Ciberseguridad** en UNICARIBE con experiencia pr�
 
 ---
 
-## 🟩 Hack The Box
 
-<div align="center">
-
-| Stat | Valor |
-|------|-------|
-| 🏆 Rank | Script Kiddie |
-| 🌍 Global Ranking | #928 |
-| 🚩 Flags | 15 |
-| 💻 Máquinas | 7 / 521 |
-| ⭐ Puntos | 11 |
-| 📍 País | 🇩🇴 Dominican Republic |
-
-</div>
 
 ---
 
